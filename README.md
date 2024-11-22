@@ -1,2 +1,2 @@
 # Calculator_Project
-https://mdjamilhossain4.github.io/Calculator_Project/
+This is a simple **GUI Calculator** built using Python's `tkinter` library. It features a user-friendly interface with buttons for numbers, basic arithmetic operations (`+`, `-`, `*`, `/`), parentheses, and a percentage operator.Users can clear inputs with a "C" button and calculate results with the "=" button. The calculator is designed to be compact and efficient for basic calculations.
